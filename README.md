@@ -6,7 +6,7 @@
 
 Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, SVGs, and PNGs** for your websites and mobile apps!
 
-## Style 1 : for cards or customize use
+### 1- Hanging Fanous or Lantern : can be used in many different ways 
 
 | Format   | Description                          | Preview |
 |----------|--------------------------------------|---------|
@@ -19,7 +19,7 @@ Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, S
 | **PNG** | High-resolution images for all platforms | ![El Fanous-6](https://github.com/user-attachments/assets/1e6fc788-cb65-4028-8ca5-c79edd0084da) |
 
 
-## Style 2 : coming soon
+### 1- Navbar ramadan alerts : coming soon 
 
 ## How to Use
 
