@@ -10,8 +10,8 @@ Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, S
 
 | Format   | Description                          | Preview |
 |----------|--------------------------------------|---------|
-| **Lottie (JSON)** | animations color style 🟣   | ![PurpleStyle1](https://github.com/user-attachments/assets/0ed69184-e501-45f6-aff8-30f7e97e84d4) |
-| **Lottie (JSON)** | animations color style 🟣   | ![PurpleStyle1](https://github.com/user-attachments/assets/0ed69184-e501-45f6-aff8-30f7e97e84d4) |
+| **Lottie (JSON)** | Purple 1 🟣   | ![PurpleStyle1](https://github.com/user-attachments/assets/0ed69184-e501-45f6-aff8-30f7e97e84d4) |
+| **Lottie (JSON)** | Purple 2 🟣   | ![PurpleStyle2](https://github.com/user-attachments/assets/05d6711f-a20b-4627-8ccf-6742b56e8bb1) |
 | **Lottie (JSON)** |  Green 🟢  |![GreenStyle](https://github.com/user-attachments/assets/8b32c5c1-7189-4068-bae3-f64a73dfc04a)|
 | **Lottie (JSON)** | Brown 🟤   | ![BrownStyle](https://github.com/user-attachments/assets/aa5af3ea-761e-411f-a0dd-9c73f2622f98) |
 | **Lottie (JSON)** | Blank ⚫   |![BlankStyle](https://github.com/user-attachments/assets/5cf80f8e-dd91-47f4-bac0-45587b133e31) |
@@ -27,7 +27,7 @@ Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, S
 2. **SVG/PNG**: Simply download and add it to your project.
 
 ## Download
-All files are available in the `/assets` folder.
+All files are available in the `/Assets` folder.
 
 ## Support & Contribution
 Feel free to use these assets for free! If you find them useful, consider giving this repo a ⭐ or sharing it with others, Contributions are welcome!
