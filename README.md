@@ -1,8 +1,7 @@
 # El Fanous Ramadan - Free Lottie Animations
 
+|![PurpleStyle2](https://github.com/user-attachments/assets/00cd58d3-8aca-4e1e-8b25-38c5ad108fdb)|
 
-
-![El Fanous Ramadan Animation](preview.gif)
 
 Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, SVGs, and PNGs** for your websites and mobile apps!
 
