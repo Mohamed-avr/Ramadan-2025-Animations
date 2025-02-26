@@ -4,19 +4,21 @@
 
 Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, SVGs, and PNGs** for your websites and mobile apps!
 
-## Available Files
+## Style 1 : for cards or customize use
 
 | Format   | Description                          | Preview |
 |----------|--------------------------------------|---------|
-| **Lottie (JSON)** | animations color style 🟪   | ![Lottie Preview](preview-lottie.gif) |
-| **Lottie (JSON)** |  animations color style 🟢  | ![Lottie Preview 2](![GreenStyle](https://github.com/user-attachments/assets/07e91704-17b6-4dea-b108-500a29d5960d)
-) |
+| **Lottie (JSON)** | animations color style 🟣   | ![Lottie Preview](preview-lottie.gif) |
+| **Lottie (JSON)** |  animations color style 🟢  |![GreenStyle](https://github.com/user-attachments/assets/8b32c5c1-7189-4068-bae3-f64a73dfc04a)|
 | **Lottie (JSON)** | animations color style 🟪   | ![Lottie Preview 3](preview-lottie3.gif) |
 | **Lottie (JSON)** | animations color style 🟪   | ![Lottie Preview](preview-lottie.gif) |
 | **Lottie (JSON)** |  animations color style 🟪  | ![Lottie Preview 2](preview-lottie2.gif) |
 | **Lottie (JSON)** | animations color style 🟪   | ![Lottie Preview 3](preview-lottie3.gif) |
 | **SVG** | Scalable vector graphics for web usage | ![SVG Preview](preview-svg.png) |
 | **PNG** | High-resolution images for all platforms | ![PNG Preview](preview-png.png) |
+
+
+## Style 2 : coming soon
 
 ## How to Use
 
