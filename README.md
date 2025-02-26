@@ -2,7 +2,7 @@
 
 ![El Fanous Ramadan Animation](preview.gif)
 
-Welcome to **El Fanous Ramadan ** – a collection of free **Lottie animations, SVGs, and PNGs** for your websites and mobile apps!
+Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, SVGs, and PNGs** for your websites and mobile apps!
 
 ## Available Files
 
