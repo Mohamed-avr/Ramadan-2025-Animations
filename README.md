@@ -18,7 +18,14 @@ Welcome to **El Fanous Ramadan** – a collection of free **Lottie animations, S
 | **PNG** | High-resolution images for all platforms | ![El Fanous-6](https://github.com/user-attachments/assets/1e6fc788-cb65-4028-8ca5-c79edd0084da) |
 
 
-### 1- Navbar ramadan alerts : coming soon 
+### 2- moon and sun changing : coming soon 
+| Format   | Description                          | Preview |
+|----------|--------------------------------------|---------|
+| **Lottie (JSON)** | Moon and soon   | ![vokoscreenNG-2025-02-28_18-16-48](https://github.com/user-attachments/assets/8bc561ce-5ae7-4871-8b6d-30aa9d7e7788) |
+
+
+
+### 3- Navbar ramadan alerts : coming soon 
 
 ## How to Use
 
